@@ -1,3 +1,5 @@
+//A program that accepts C-string input from the user and reverses the contents
+//of the string.
 #include <iostream>
 #include <cstring>
 
