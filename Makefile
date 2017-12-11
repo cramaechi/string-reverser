@@ -1,5 +1,5 @@
 all:
-	g++ main.cpp -o reverse_string
+	g++ main.cpp -o reverse
 
 clean:
-	rm reverse_string
+	rm reverse
